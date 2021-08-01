@@ -35,24 +35,23 @@ ul{
 
 @media (min-width: 768px) {
     .container{
-        width: 750px;
+        width: 80%;
     }
 }
 
 @media (min-width: 992px) {
     .container{
-        width: 970px;
+        width: 60%;
     }
 }
 @media (min-width: 1200px) {
     .container{
-        width: 1170px;
+        width: 60%;
     }
 }
 /* End Global Rules */
 
 /* Start container */
-
 
 .container .text{
     background-color: white;
@@ -166,7 +165,6 @@ ul{
     }
 
     .container .text p {
-        margin-right: 15%;
         font-size: 15px;
     }
 
